@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Apache TVM](https://github.com/apache/tvm)
 
-- 📫 How to reach me: **hzfengsy@sjtu.edu.cn**
+- 📫 How to reach me: **me@syfeng.net**
 
 - 📄 Know about my experiences: [Linkedin](https://www.linkedin.com/in/syfeng/)
 
